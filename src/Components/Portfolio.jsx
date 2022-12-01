@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+// import image from "/workspaces/NicoleReadPortfolio/src/images/Screen Shot 2022-12-01 at 11.07.49 AM.png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -63,8 +63,8 @@ const Portfolio = () => {
       <div style={{ display: "flex", flexDirection: "row", paddingTop: "3rem" }}>
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
-            src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover" }}
+            src="https://images.unsplash.com/photo-1512981566925-4937ba1d2b2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NjZ8fGxhcHRvcCUyMGRlc2t8ZW58MHx8MHx8&auto=format&fit=crop&w=800&q=60"
+            style={{ height: "70%", width: "70%", objectFit: "cover" }}
             alt={imageAltText}
           />
         </div>
