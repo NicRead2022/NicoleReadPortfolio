@@ -1,13 +1,13 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "Nicole-Read-Portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Front End Developer",
   "source": "src/index.html",
-  "homepage": "http://{NicRead2022}.github.io/{NicoleReadPortfolio}",
+  "homepage": "http://NicRead2022.github.io/NicoleReadPortfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{NicRead2022}.github.io/{NicoleReadPortfolio}'",
+    "build-gh": "parcel build --public-url 'https://NicRead2022.github.io/{NicoleReadPortfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
