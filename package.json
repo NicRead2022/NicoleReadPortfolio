@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://NicRead2022.github.io/{NicoleReadPortfolio'",
+    "build-gh": "parcel build --public-url 'https://NicRead2022.github.io/NicoleReadPortfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
