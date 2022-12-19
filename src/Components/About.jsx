@@ -44,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By utilizing my skillset I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in collaborative ways and celebrating the end product. I find pride in building applications that integrate diversity and inclusivity.";
 
 const About = () => {
   return (

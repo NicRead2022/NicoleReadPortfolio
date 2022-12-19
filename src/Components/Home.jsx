@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/mosaic.svg";
 
-const imageAltText = "woman holding laptop standing by server room with glass wall";
+const imageAltText = "pink mosaic wallpaper";
 
 const Home = ({ name, title }) => {
   return (
