@@ -27275,6 +27275,21 @@ const About = ()=>{
                         fileName: "src/Components/About.jsx",
                         lineNumber: 79,
                         columnNumber: 9
+                    }, undefined),
+                    /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
+                        className: "small",
+                        children: /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                            href: "https://docs.google.com/document/d/e/2PACX-1vRLumP7Oz8GnqyDQO28RdE1jf22nXyArfKG0Wr44s5mmqj8m0y904FmWPgro1Vo78ZXRMUjpi8hPXDX/pub",
+                            children: " View Resume "
+                        }, void 0, false, {
+                            fileName: "src/Components/About.jsx",
+                            lineNumber: 81,
+                            columnNumber: 10
+                        }, undefined)
+                    }, void 0, false, {
+                        fileName: "src/Components/About.jsx",
+                        lineNumber: 80,
+                        columnNumber: 9
                     }, undefined)
                 ]
             }, void 0, true, {
