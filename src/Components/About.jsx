@@ -77,6 +77,9 @@ const About = () => {
         </ul>
         <hr />
         <p style={{ padding: "1rem 3rem 0" }}>{detailOrQuote}</p>
+        <p className="small">
+         <a href="https://docs.google.com/document/d/e/2PACX-1vRLumP7Oz8GnqyDQO28RdE1jf22nXyArfKG0Wr44s5mmqj8m0y904FmWPgro1Vo78ZXRMUjpi8hPXDX/pub"> View Resume </a>
+         </p>
       </div>
     </section>
   );
