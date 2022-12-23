@@ -34,13 +34,13 @@ const projectList = [
     title: "Aura Vibes",
     description:
      "An application that curates playlists for users based on their selected mood.",
-    url: "git@github.com:NicRead2022/MOOD-FE.git",
+    url: "https://github.com/NicRead2022/MOOD-FE.git",
   },
   {
     title: "Hired",
     description:
       "Hired is an application for musicians and bandleaders where they can post gigs that need muscians and where musicians can post their services and availabilty .",
-    url: "git@github.com:NicRead2022/GitAGig.git",
+    url: "https://github.com/NicRead2022/GitAGig.git",
   },
   {
     title: "Student Tracker",
