@@ -40,13 +40,13 @@ const projectList = [
     title: "Hired",
     description:
       "Hired is an application for musicians and bandleaders where they can post gigs that need muscians and where musicians can post their services and availabilty .",
-    url: "https://github.com/NicRead2022/GitAGig.git",
+    url: "https://hiredgig.herokuapp.com/",
   },
   {
     title: "Student Tracker",
     description:
       "A teacher friendly app that allows grade tracking and features to add students to classes and tracks their GPA .",
-    url: "https://github.com/NicRead2022/Student-Tracker-FE.git",
+    url: "https://github.com/NicRead2022/Student-Tracker-FE/tree/main/student-tracker",
   },
   // {
   //   title: "GitHub Codespaces and github.dev",
